@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="Lockfreeq.MSQueue&lt;T&gt;">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>MSQueue.cs</FileName>
+      <HashCode>AAAAAEAAAAAAAIAAAAAAAAAAAAAAIAAAAAACAAAAQAA=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="Lockfreeq.MSQueue&lt;T&gt;.node_t" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MSQueue.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Struct Name="Lockfreeq.MSQueue&lt;T&gt;.pointer_t" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MSQueue.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+  </Class>
+</ClassDiagram>
